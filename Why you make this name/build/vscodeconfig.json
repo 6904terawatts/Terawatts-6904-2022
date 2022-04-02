@@ -1,0 +1,447 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2022\\roborio\\bin\\arm-frc2022-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2022\\roborio\\bin\\arm-frc2022-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+      "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f6d09d443a247183fc6ff8e7eaf6ffe6\\transformed\\wpilibNewCommands-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\5ebac7cbec7fed56eaf5406fc258bfc3\\transformed\\wpilibc-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9fb9c26265f919eabb5d287ce4c505d9\\transformed\\ntcore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\de40b380e4abf99197e8cac5d4f51788\\transformed\\hal-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6234ce58448511a16b9e1b812e970a24\\transformed\\wpimath-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fc45b1cc5fc21b4564f9584a3d5763b\\transformed\\wpiutil-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9d30d9d3dc584e0ec802cb6525fcf2f0\\transformed\\cameraserver-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\abcac15627872a32d036c2ba0f9b2a61\\transformed\\cscore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\79aac71c8d50718f8b9bc13bcdcf9b4f\\transformed\\opencv-cpp-4.5.2-1-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f6d09d443a247183fc6ff8e7eaf6ffe6\\transformed\\wpilibNewCommands-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\5ebac7cbec7fed56eaf5406fc258bfc3\\transformed\\wpilibc-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9fb9c26265f919eabb5d287ce4c505d9\\transformed\\ntcore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\de40b380e4abf99197e8cac5d4f51788\\transformed\\hal-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6234ce58448511a16b9e1b812e970a24\\transformed\\wpimath-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fc45b1cc5fc21b4564f9584a3d5763b\\transformed\\wpiutil-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9d30d9d3dc584e0ec802cb6525fcf2f0\\transformed\\cameraserver-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\abcac15627872a32d036c2ba0f9b2a61\\transformed\\cscore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\79aac71c8d50718f8b9bc13bcdcf9b4f\\transformed\\opencv-cpp-4.5.2-1-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+      "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+          "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2022\\roborio\\bin\\arm-frc2022-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2022\\roborio\\bin\\arm-frc2022-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+      "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f6d09d443a247183fc6ff8e7eaf6ffe6\\transformed\\wpilibNewCommands-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\5ebac7cbec7fed56eaf5406fc258bfc3\\transformed\\wpilibc-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9fb9c26265f919eabb5d287ce4c505d9\\transformed\\ntcore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\de40b380e4abf99197e8cac5d4f51788\\transformed\\hal-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6234ce58448511a16b9e1b812e970a24\\transformed\\wpimath-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fc45b1cc5fc21b4564f9584a3d5763b\\transformed\\wpiutil-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9d30d9d3dc584e0ec802cb6525fcf2f0\\transformed\\cameraserver-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\abcac15627872a32d036c2ba0f9b2a61\\transformed\\cscore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\79aac71c8d50718f8b9bc13bcdcf9b4f\\transformed\\opencv-cpp-4.5.2-1-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f6d09d443a247183fc6ff8e7eaf6ffe6\\transformed\\wpilibNewCommands-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\5ebac7cbec7fed56eaf5406fc258bfc3\\transformed\\wpilibc-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9fb9c26265f919eabb5d287ce4c505d9\\transformed\\ntcore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\de40b380e4abf99197e8cac5d4f51788\\transformed\\hal-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6234ce58448511a16b9e1b812e970a24\\transformed\\wpimath-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fc45b1cc5fc21b4564f9584a3d5763b\\transformed\\wpiutil-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\9d30d9d3dc584e0ec802cb6525fcf2f0\\transformed\\cameraserver-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\abcac15627872a32d036c2ba0f9b2a61\\transformed\\cscore-cpp-2022.4.1-sources\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\79aac71c8d50718f8b9bc13bcdcf9b4f\\transformed\\opencv-cpp-4.5.2-1-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+      "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+      "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ca25e80942064fe14102371a60bae3d6\\transformed\\wpilibNewCommands-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\21a16a8365e997d8861fdb962d87d755\\transformed\\wpiapi-cpp-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\e33fd2784776fb0d96cfbdf769a78f23\\transformed\\api-cpp-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\f827191747cbd4b903e23c90d5f30869\\transformed\\cci-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0ab142009bd2177600a4c1582f29ca6a\\transformed\\wpiapi-cpp-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\940b14b180976eee2f4ab97e0484af30\\transformed\\api-cpp-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\bad996cafb123f5b86b8c823b137a89d\\transformed\\cci-sim-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\4da56bffd1f22ef5d54c4381ffecdb6c\\transformed\\simTalonSRX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8178d3bdcf9e229504a39ef9fd5a4277\\transformed\\simTalonFX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a1253b75fe825a9066b97580d03df368\\transformed\\simVictorSPX-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\35bf824c8ba41c518fbde0a9a17b7f84\\transformed\\simPigeonIMU-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\307395a95b9a549916ffba7f08d28dbe\\transformed\\simCANCoder-5.21.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\fe6738ed0fe22bb4cc4ef42367628cd2\\transformed\\wpilibc-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\6e865a89ecbc3e608b6054d6958ac772\\transformed\\ntcore-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\0d56fc91fea1bc97a8d8ae53ba1a353d\\transformed\\hal-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\a4ad8d963f6da2e5eaf7a836d2dc8ee6\\transformed\\wpimath-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\b3e60ee3c7aac53388522f01b7d79ab5\\transformed\\wpiutil-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\ae11c8a2476c9beba5e773b4e5d0f343\\transformed\\netcomm-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\928d45602130dc02ced160864deca87b\\transformed\\chipobject-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\8ad8b9fb2a819cc04e7c572ab48172e5\\transformed\\visa-2022.4.0-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\1fa4100b05879922050b659467dc2ff1\\transformed\\cameraserver-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\d32a264ea3c8bbd6f090f44ab3a0ff46\\transformed\\cscore-cpp-2022.4.1-headers\\",
+          "C:\\Users\\enter\\.gradle\\caches\\transforms-3\\30bea9114bf75f91d18347a8be921f2a\\transformed\\opencv-cpp-4.5.2-1-headers\\",
+          "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\enter\\OneDrive\\Desktop\\Frc 2022\\Why you make this name\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]
